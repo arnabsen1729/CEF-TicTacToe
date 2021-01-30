@@ -3,6 +3,11 @@ body {
   margin: 20px;
 }
 
+.green-bg {
+  background: green;
+  color: whitesmoke;
+}
+
 ol, ul {
   padding-left: 30px;
 }
@@ -18,7 +23,6 @@ ol, ul {
 }
 
 .square {
-  background: #fff;
   border: 1px solid #999;
   float: left;
   font-size: 24px;
